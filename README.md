@@ -1,6 +1,7 @@
 # Plopper
 
     Write a uniform distribution of files to disk for testing/benchmarking purposes
+    [Public Repo](https://github.com/mieweb/ploppler) [MIE's internal repo](https://github.com/mieweb/plopper)
 
 # CLI Usage
     Plops out a random distribution of files to the filesystem
